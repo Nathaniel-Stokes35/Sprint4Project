@@ -5,5 +5,7 @@ enableCORS = false
 enableWebsocketCompression = false
 baseUrlPath = ""
 
+[browser]
+serverAddress = "0.0.0.0"
 [run]
 magicEnabled = true
