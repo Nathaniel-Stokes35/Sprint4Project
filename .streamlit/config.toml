@@ -1,11 +1,7 @@
 [server]
 headless = true
-port = 8501
-enableCORS = false
-enableWebsocketCompression = false
-baseUrlPath = ""
+port = 10000
 
 [browser]
 serverAddress = "0.0.0.0"
-[run]
-magicEnabled = true
+serverPort = 10000
