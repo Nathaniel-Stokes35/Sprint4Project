@@ -3,12 +3,18 @@ Requirements:
 <ul>
     <li>Description of the project
      <ul>
-        <li>Explaining it is a tool to simulate random events</li>
-        <li>include libraries used</li>
-        <li>and methods used</li>
+        <li>Dataset of a list for 14000+ Car listings from 2018</li>
+        <li>used Streamlit, Pandas, and Plotly</li>
+        <li>
+            <ul>
+                <li>used selectbox and multiselect(checkbox-esque) to add input from the user</li>
+                <li>used tabs to better present the information</li>
+                <li>used st.scatter_chart and px.histogram (paired with st.plotly_chart) to present data</li>
+            </ul>
+        </li>
      </ul>
     </li>
-    <li>Close with instructions on how to launch</li>
+    <li>Launch from terminal using Streamlit</li>
 </ul>
 Description of Project as outlined in Sprint 4 Notes:
 <ol>
