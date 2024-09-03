@@ -14,7 +14,7 @@ Requirements:
         </li>
      </ul>
     </li>
-    <li>Launch from terminal using Streamlit</li>
+    <li>use Hyperlink https://sprint4project-hmre.onrender.com to successfully access the app.</li>
 </ul>
 Description of Project as outlined in Sprint 4 Notes:
 <ol>
